@@ -301,7 +301,7 @@ The developer is **not responsible** for any misuse of this project.
 - 💻 Offensive Security Enthusiast
   
 
-GitHub: https://github.com/JOD7777
+GitHub: https://github.com/pal990452-star
 LinkedIN: https://www.linkedin.com/in/sayani-pal-0ab44328b/
 
 
