@@ -109,7 +109,7 @@ VAPT-Framework/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/JOD7777/VAPT-Framework.git
+git clone https://github.com/pal990452-star/VAPT-Framework.git
 
 cd VAPT-Framework
 
@@ -291,7 +291,7 @@ The developer is **not responsible** for any misuse of this project.
 
 # 👨‍💻 Author
 
-**Supriyo Malik**
+**Sayani Pal**
 
 - 🎓 Advanced Networking & Cyber Security Student
 - 🛡️ SOC Analyst
